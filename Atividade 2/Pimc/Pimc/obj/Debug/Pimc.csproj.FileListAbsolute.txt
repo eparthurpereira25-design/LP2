@@ -1,0 +1,21 @@
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.AssemblyReference.cache
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.Form1.resources
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.Properties.Resources.resources
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.GenerateResource.cache
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.csproj.CoreCompileInputs.cache
+C:\Users\0030482511035\source\repos\Pimc\Pimc\bin\Debug\Pimc.exe.config
+C:\Users\0030482511035\source\repos\Pimc\Pimc\bin\Debug\Pimc.exe
+C:\Users\0030482511035\source\repos\Pimc\Pimc\bin\Debug\Pimc.pdb
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.exe
+C:\Users\0030482511035\source\repos\Pimc\Pimc\obj\Debug\Pimc.pdb
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\bin\Debug\Pimc.exe.config
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\bin\Debug\Pimc.exe
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\bin\Debug\Pimc.pdb
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.csproj.AssemblyReference.cache
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.exe.config
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.Form1.resources
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.Properties.Resources.resources
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.csproj.GenerateResource.cache
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.csproj.CoreCompileInputs.cache
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.exe
+C:\Users\VC\Downloads\Nova pasta\Pimc\Pimc\obj\Debug\Pimc.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pimc", "Pimc\Pimc.csproj", "{2CFF8A91-D8DE-4D49-9464-FE7A4E5B5A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFF8A91-D8DE-4D49-9464-FE7A4E5B5A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFF8A91-D8DE-4D49-9464-FE7A4E5B5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFF8A91-D8DE-4D49-9464-FE7A4E5B5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFF8A91-D8DE-4D49-9464-FE7A4E5B5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521DC1A6-58FA-4E11-BBC8-8460E11210F6}
+	EndGlobalSection
+EndGlobal
